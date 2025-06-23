@@ -1,0 +1,5 @@
+from the other side
+hello world
+quick brown fox
+lazy dog
+as an ai model
